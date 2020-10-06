@@ -29,7 +29,7 @@ public class Main {
                 len++;
             }
 
-
+            System.out.println("Max =" + String.valueOf(arrayList));
            /* if (line > max) {
                 max = line;
             }*/
